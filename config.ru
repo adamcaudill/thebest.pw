@@ -1,5 +1,5 @@
 require './bestpw'
 require 'rack/protection'
 
-use Rack::Protection
+#use Rack::Protection
 run Sinatra::Application

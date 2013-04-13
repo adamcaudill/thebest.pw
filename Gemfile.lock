@@ -17,3 +17,4 @@ DEPENDENCIES
   rack
   rack-protection
   sinatra
+  tilt
